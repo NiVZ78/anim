@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "paulniven@aol.com",
+    "longName": "ANIM",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/sw1.png",
+                "name": "IMAGE_BG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "ANIM",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3b2fa3d3-7cb2-46b2-a79b-b3a1377dfc1d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
